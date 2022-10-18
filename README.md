@@ -1,5 +1,5 @@
-Nama : Danang Nurcahyo
-Nim  : 312210004
+Nama : Frans Putra Sianga
+Nim  : 312210046
 Kelas: TI.22.A
 ## Cara penginstalan GIT
 
@@ -90,7 +90,7 @@ Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “gi
 
  ##### Cara penggunaan git dengan perintah dasar  git remote add origin [url], perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)
 
-- Sudah mengetahui url githubnya lalu ketik perintah git remote add origin [url],urlnya diganti dengan url github anda https://github.com/danur77/Latihan1.git
+- Sudah mengetahui url githubnya lalu ketik perintah git remote add origin [url],urlnya diganti dengan url github anda https://github.com/namasayafrans/Latihan1.git
    ![WhatsApp Image 2022-10-17 at 13 25 55](https://user-images.githubusercontent.com/115677839/196104407-f40dd858-de75-4dd7-bbbd-72daac3ab291.jpeg)
 
 
@@ -102,7 +102,7 @@ Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “gi
 
  ##### Cara penggunaan git dengan perintah dasar  git clone [url], perintah untuk membuat working directory yang diambil dari repositry sever.
 
-- Kalau ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti dengan url github anda https://github.com/danur77/Latihan1.git . Jika ingin masuk kedirektorti gunakan perintah “cd [nama direktori anda]”, dan jika ingin melihat semua isi direektori gunakan perintah “ls -1"
+- Kalau ingin melakukan cloning, gunakan perintah git clone [url], urlnya diganti dengan url github anda https://github.com/namasayafrans/Latihan1.git . Jika ingin masuk kedirektorti gunakan perintah “cd [nama direktori anda]”, dan jika ingin melihat semua isi direektori gunakan perintah “ls -1"
   ![WhatsApp Image 2022-10-17 at 13 25 55](https://user-images.githubusercontent.com/115677839/196104674-6df80109-4469-4773-8f11-6ebd721ba54b.jpeg)
 
 
